@@ -1,76 +1,25 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# SYS1 TP1 Installation - Configuration Serveurs 
 
-# Project Name
+> Ce dépot contient les liens vers l'installation et configuration des serveurs.
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+![serveur-2](https://user-images.githubusercontent.com/47100064/173204705-b8d95c24-e79b-4cf2-8378-3bb5a82d8e2b.jpeg)
 
 
-## Getting Started
+## LIENS
+- [Samaba](https://github.com/githubhandle)
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- [Nginx](https://github.com/tahiry-dev/NGINX-server)
 
+- [Apache](https://github.com/tahiry-dev/Apache-server)
 
-To get a local copy up and running follow these simple example steps.
+- [NFS](https://github.com/tahiry-dev/NFS-server)
 
-### Prerequisites
+- [FTP](https://github.com/tahiry-dev/FTP-server)
 
-### Setup
+## Auteur
 
-### Install
+👤 **RANDRIAMIARINTSOA Tahiry**
 
-### Usage
+- GitHub: [tahiry-dev](https://github.com/tahiry-dev)
 
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
+- LinkedIn: [Tahiry](https://www.linkedin.com/in/tahiry-randriamiarintsoa/)
