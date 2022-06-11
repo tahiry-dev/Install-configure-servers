@@ -6,7 +6,7 @@
 
 
 ## LIENS
-- [Samaba](https://github.com/githubhandle)
+- [Samba](https://github.com/githubhandle)
 
 - [Nginx](https://github.com/tahiry-dev/NGINX-server)
 
